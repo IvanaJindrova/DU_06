@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "nazev": "In the meadow", 
+        "vyrobce": "Mason Cash",
+        "prumer": "24 cm",
+        "objem": "2 l",
+        "barva": "kralovská modř",
+        "cena": "1 049 Kč",
+        "obrazek": "https://www.pottenpannen.cz/p/mason-cash-misa-in-the-meadow-marsalkovo-namornicka-modra-2-l?utm_source=google&utm_medium=cpc&utm_campaign=20267816830&utm_content=CjwKCAjwjqWzBhAqEiwAQmtgT005KXzBRMTufzN2ZMjxoKXUwybLEV-ljxGhU4qzqm6y3Ny0ykopyBoCLOEQAvD_BwE&gclid=CjwKCAjwjqWzBhAqEiwAQmtgT005KXzBRMTufzN2ZMjxoKXUwybLEV-ljxGhU4qzqm6y3Ny0ykopyBoCLOEQAvD_BwE&gad_source=1"
+    },
+    {
+        "id": 1,
+        "nazev": "In the forest", 
+        "vyrobce": "Mason Cash",
+        "prumer": "24 cm",
+        "objem": "2 l",
+        "barva": "Okrová",
+        "cena": "979 Kč",
+        "obrazek": "https://www.pottenpannen.cz/p/misa-in-the-forest-okrova-2-l-medved?recommId=5dab5b6b7979eec2a406b7880eba8e8a"
+    },
+    {
+        "id": 2,
+        "nazev": "Nautical", 
+        "vyrobce": "Mason Cash",
+        "prumer": "24 cm",
+        "objem": "2 l",
+        "barva": "Bleděmodrá",
+        "cena": "979 Kč",
+        "obrazek": "https://www.pottenpannen.cz/p/misa-nautical-bledemodra-2-l-zelva?recommId=5dab5b6b7979eec2a406b7880eba8e8a"
+    }
+]

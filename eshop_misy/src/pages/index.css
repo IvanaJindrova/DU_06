@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.product {
+  border: 1px solid #ccc;
+  margin: 10px;
+  padding: 10px;
+  width: 200px;
+  text-align: left;
+}
+
+.product img {
+  width: 100%;
+  height: auto;
+}
+
+.product a {
+  display: block;
+  margin-top: 10px;
+  text-align: center;
+  color: #007bff;
+  text-decoration: none;
+}
+
+.product a:hover {
+  text-decoration: underline;
+}
+
+.product-page img {
+  max-width: 300px;
+  margin: 0 auto;
+}
