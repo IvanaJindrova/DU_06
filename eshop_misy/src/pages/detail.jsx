@@ -2,6 +2,7 @@ import { render } from '@czechitas/render';
 import { ProductPage } from '../components/ProductPage/ProductPage';
 import '../global.css';
 import './index.css';
+import { Product } from '../components/Product/Product';
 /*
 const response = await fetch ("http://localhost:4001/api/misy")
 const prevodNaJson = await response.json()
@@ -16,13 +17,14 @@ console.log(produkt)
 //6.bod
 const params = new URLSearchParams(window.location.search);
 const id = params.get('id');
-
-const response = await fetch (`http://localhost:4001/api/misy/${id}`)
+/*
+const response = await fetch (`http://localhost:4000/api/misy/${id}`)
 const prevodNaJson = await response.json()
 const misy = prevodNaJson.data
-
+*/
 document.querySelector('#root').innerHTML = render(
   <>
     <ProductPage />
+    <Product />
   </>
 );
