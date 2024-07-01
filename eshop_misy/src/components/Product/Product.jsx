@@ -8,14 +8,14 @@ const misy = prevodNaJson.data
 export const Product = () => {
     return (
         <>
-            <h1>{misy.nazev}</h1>
-            <h3>Cena: {misy.cena}</h3>
-            <p>Výrobce: {misy.vyrobce}</p>
-            <p>Průměr mísy: {misy.prumer}</p>
-            <p>Objem mísy: {misy.objem}</p>
-            <p>Barva: {misy.barva}</p>
-            <p>Obrazek: {misy.obrazek}</p>
-            
+                <h1>{misy.nazev}</h1>
+                <h3>Cena: {misy.cena}</h3>
+                <p>Výrobce: {misy.vyrobce}</p>
+                <p>Průměr mísy: {misy.prumer}</p>
+                <p>Objem mísy: {misy.objem}</p>
+                <p>Barva: {misy.barva}</p>
+                <img src={misy.obrazek} alt={misy.nazev}/>
+
     </>
     )
 };
